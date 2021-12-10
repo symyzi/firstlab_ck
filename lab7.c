@@ -19,7 +19,9 @@ union keyboard {
 };
 
 enum {
-    book = 1, journal = 2, newspaper = 3
+    book = 1,
+    journal = 2,
+    newspaper = 3
 };
 
 double area(int r){
